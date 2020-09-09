@@ -1,0 +1,31 @@
+.case { 
+    height: 100px;
+    width: 100px;
+    background-color: palevioletred;
+}
+
+.death{ 
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+.active { 
+  height: 100px;
+  width: 100px;
+  background-color: paleturquoise;
+}
+
+.recovered { 
+  height: 100px;
+  width: 100px;
+  background-color:skyblue;
+}
+
+.center {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  padding-top: 20px;
+  font-size: larger;
+}
